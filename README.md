@@ -9,7 +9,9 @@ $ sudo tar xvpf x86_64-w64-mingw32.tar.xz -C /
 
 cleaning libraries from garbage example
 
-$ sudo /usr/bin/x86_64-w64-mingw32-strip /folder/*
+$ sudo /usr/bin/x86_64-w64-mingw32-strip /folder_source_library/*
+
+$ sudo /usr/bin/i686-w64-mingw32-strip /folder_source_library/*
 
 Idea new os lindows example:
 
