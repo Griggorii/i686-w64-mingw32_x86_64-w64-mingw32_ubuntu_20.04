@@ -1,7 +1,9 @@
 # i686-w64-mingw32_x86_64-w64-mingw32_ubuntu_20.04
 strong complexity , underestimated , linux , i686-w64-mingw32 , x86_64-w64-mingw32 , lindows , androlinux , wine
 
-Install
+Architect griggorii only real technologies full pack objecive video driver my work , not any fictional parasitic distributions support real technology investments and donate dollar card VISA 4817 7601 8112 4706
+
+Install my tool
 
 $ sudo tar xvpf x86_64-w64-mingw32.tar.xz -C /
 
